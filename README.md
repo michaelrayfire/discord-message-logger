@@ -13,7 +13,7 @@ Usage
 Clone the Repository:
 
 
-https://github.com/michaelrayfire/ladydeath.git
+https://github.com/michaelrayfire/discord-message-logger.git
 Install Dependencies:
 
 bash
