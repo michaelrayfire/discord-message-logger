@@ -4,9 +4,12 @@ This bot is designed to provide comprehensive logging capabilities for your Disc
 
 Features
 Message Logging: Logs all messages, including deleted and edited ones.
+
 Image Saving: Automatically downloads and saves images shared in the server.
+
 IPv4 Logging (Coming Soon): A feature for the private bot to log IPv4 addresses, controlled by the user through an open interface.
 Open Source
+
 The core functionalities of the bot are open-source, allowing for community contributions and transparency in how the bot operates.
 
 Usage
