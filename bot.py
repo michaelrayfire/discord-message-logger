@@ -69,4 +69,4 @@ async def download_attachment(attachment):
                 logging.error(f'Failed to download attachment: {attachment.url}')
 
 # Run the bot with your token
-bot.run('MTA0OTc2ODUyOTgwMjU3OTk4OA.GWOY-3.2iyPH893LoH89BWnb6fJlv_mkdtJmowl6Y-j9c')
+bot.run('YOUR_BOT_TOKEN_HERE')
