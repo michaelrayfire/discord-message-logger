@@ -13,7 +13,7 @@ Usage
 Clone the Repository:
 
 
-git clone https://github.com/yourusername/discord-logging-bot.git
+https://github.com/michaelrayfire/ladydeath.git
 Install Dependencies:
 
 bash
