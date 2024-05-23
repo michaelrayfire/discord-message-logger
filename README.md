@@ -19,8 +19,7 @@ Clone the Repository:
 https://github.com/michaelrayfire/discord-message-logger.git
 Install Dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Set Up the Bot:
 
